@@ -104,11 +104,14 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.emotion-detection-env
 env/
 venv/
 ENV/
+emotion-detection-env/
 env.bak/
 venv.bak/
+emotion-detection-env.bak/
 
 # Spyder project settings
 .spyderproject
